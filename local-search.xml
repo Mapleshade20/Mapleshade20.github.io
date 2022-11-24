@@ -445,17 +445,6 @@
   
   
   <entry>
-    <title>图书馆</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p>已知可以查看的浏览器：FireFox, Microsoft Edge, Google Chrome。PDF可以下载。</p><a href="https://mapleshade20.github.io/books/licheng/"><u><b>《共和国的历程》 - 北大马会</b></u></a></br><a href="https://mapleshade20.github.io/books/onediaoyan/"><u><b>《中国社会调查研究》第一期 - 佐伊</b></u></a></br><a href="https://mapleshade20.github.io/books/twodiaoyan/"><u><b>《中国社会调查研究》第二期 - 佐伊</b></u></a></br><a href="https://mapleshade20.github.io/books/renwu/"><u><b>《局势与任务》 - 莱茵杂志社</b></u></a></br><a href="https://mapleshade20.github.io/books/jiaocheng/"><u><b>《马列毛基本教程》 - 印共（毛）</b></u></a>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>关于我们</title>
     <link href="/"/>
     <url>/</url>
@@ -467,22 +456,22 @@
   
   
   <entry>
-    <title>共和国的历程</title>
+    <title>图书馆</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>声明：作者观点与本站立场无关！</p><div class="markdown-body"><div class="row">    <embed src="./licheng.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
+    <content type="html"><![CDATA[<p>已知可以查看的浏览器：FireFox, Microsoft Edge, Google Chrome。PDF可以下载。</p><a href="https://mapleshade20.github.io/books/licheng/"><u><b>《共和国的历程》 - 北大马会</b></u></a></br><a href="https://mapleshade20.github.io/books/onediaoyan/"><u><b>《中国社会调查研究》第一期 - 佐伊</b></u></a></br><a href="https://mapleshade20.github.io/books/twodiaoyan/"><u><b>《中国社会调查研究》第二期 - 佐伊</b></u></a></br><a href="https://mapleshade20.github.io/books/renwu/"><u><b>《局势与任务》 - 莱茵杂志社</b></u></a></br><a href="https://mapleshade20.github.io/books/jiaocheng/"><u><b>《马列毛基本教程》 - 印共（毛）</b></u></a>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>阶层调研（二）</title>
+    <title>共和国的历程</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<div class="markdown-body">作者：佐伊23<div class="row">    <embed src="./twodiaoyan.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
+    <content type="html"><![CDATA[<p>声明：作者观点与本站立场无关！</p><div class="markdown-body"><div class="row">    <embed src="./licheng.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
     
   </entry>
   
@@ -516,6 +505,17 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<div class="markdown-body">作者：米宁（莱茵杂志社）<div class="row">    <embed src="./renwu.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>阶层调研（二）</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body">作者：佐伊23<div class="row">    <embed src="./twodiaoyan.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
     
   </entry>
   
