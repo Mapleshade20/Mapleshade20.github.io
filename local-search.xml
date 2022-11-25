@@ -8,7 +8,7 @@
     <link href="/2022/11/24/0020/"/>
     <url>/2022/11/24/0020/</url>
     
-    <content type="html"><![CDATA[<p>FOXCONN 富士康<br>testetstetstetstetstetstetstetstsettsetsettsetsttsetsetsettsetsettsetsetsettsetsettsettsetsettsettsesttsettsetsettsettsetsettsettsettsettsettsettsetttstsettetesttettes</p><script src="https://cdn.jsdelivr.net/npm/hls.js"></script><video id="video1" controls autoplay style="height: 100%;width: 100%;object-fit: cover;"></video><script>  var video1 = document.getElementById('video1');  var videoSrc = 'https://cdn.jsdelivr.net/gh/Mapleshade20/GitBukkit/output/fightS.m3u8';  if (Hls.isSupported()) {    var hls1 = new Hls();    hls1.loadSource(videoSrc);    hls1.attachMedia(video1);    hls1.on(Hls.Events.MANIFEST_PARSED, function() {      video1.play();    });  }</script><video id="video2" muted preload controls style="height: 100%;width: 100%;object-fit: cover;"></video><script>  var video2 = document.getElementById('video2');  var videoSrc = 'https://cdn.jsdelivr.net/gh/Mapleshade20/GitBukkit/output/fightL.m3u8';  if (Hls.isSupported()) {    var hls2 = new Hls();    hls2.loadSource(videoSrc);    hls2.attachMedia(video2);    hls2.on(Hls.Events.MANIFEST_PARSED, function() {      video2.play();    });  }</script><video id="video" muted preload controls style="height: 100%;width: 100%;object-fit: cover;"></video><script>  var video = document.getElementById('video');  var videoSrc = 'https://cdn.jsdelivr.net/gh/Mapleshade20/GitBukkit/output/travel.m3u8';  if (Hls.isSupported()) {    var hls = new Hls();    hls.loadSource(videoSrc);    hls.attachMedia(video);    hls.on(Hls.Events.MANIFEST_PARSED, function() {      video.play();    });  }</script>]]></content>
+    <content type="html"><![CDATA[<p>FOXCONN 富士康</p><span id="more"></span><script src="https://cdn.jsdelivr.net/npm/hls.js"></script><video id="video" controls preload style="height: 100%;width: 100%;object-fit: cover;"></video><script>  var video = document.getElementById('video');  var videoSrc = 'https://cdn.jsdelivr.net/gh/Mapleshade20/GitBukkit/output/fightS.m3u8';  if (Hls.isSupported()) {    var hls = new Hls();    hls.loadSource(videoSrc);    hls.attachMedia(video);    hls.on(Hls.Events.MANIFEST_PARSED, function() {      video.play();    });  }</script><p>另外两个视频见子页面：</p><p><a href="https://maplewish.tk/2022/11/24/00202/">这是一段视频A</a></p><p><a href="https://maplewish.tk/2022/11/24/00203/">这是一段视频B</a></p>]]></content>
     
     
     <categories>
@@ -431,17 +431,6 @@
   
   
   <entry>
-    <title>马列毛基本教程</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<div class="markdown-body">作者：印度共产党（毛派）<div class="row">    <embed src="./jiaocheng.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>共和国的历程</title>
     <link href="/"/>
     <url>/</url>
@@ -464,6 +453,17 @@
   
   
   <entry>
+    <title>马列毛基本教程</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body">作者：印度共产党（毛派）<div class="row">    <embed src="./jiaocheng.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>阶层调研（一）</title>
     <link href="/"/>
     <url>/</url>
@@ -475,22 +475,22 @@
   
   
   <entry>
-    <title>局势与任务</title>
+    <title>阶层调研（二）</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<div class="markdown-body">作者：米宁（莱茵杂志社）<div class="row">    <embed src="./renwu.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
+    <content type="html"><![CDATA[<div class="markdown-body">作者：佐伊23<div class="row">    <embed src="./twodiaoyan.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>阶层调研（二）</title>
+    <title>局势与任务</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<div class="markdown-body">作者：佐伊23<div class="row">    <embed src="./twodiaoyan.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
+    <content type="html"><![CDATA[<div class="markdown-body">作者：米宁（莱茵杂志社）<div class="row">    <embed src="./renwu.pdf" width="100%" height="550" type="application/pdf"></div></div>]]></content>
     
   </entry>
   
